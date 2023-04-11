@@ -1,0 +1,27 @@
+{
+    "name": "get_browser_cookies",
+    "version": "0.1.0",
+    "description": "Obtain all cookies from the browser and support filtering",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/OblivionTime/get_cookies.git"
+    },
+    "author": "solid",
+    "license": "MIT",
+    "dependencies": {
+        "better-sqlite3": "^8.3.0"
+    },
+    "keywords": [
+        "cookies",
+        "browser",
+        "edge"
+    ],
+    "bugs": {
+        "url": "https://github.com/OblivionTime/get_cookies/issues"
+    },
+    "homepage": "https://github.com/OblivionTime/get_cookies#readme"
+}
